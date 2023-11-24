@@ -12,7 +12,10 @@ Education:
  - Before College:
     - Graduated Choong Am Elementary School, 2015  
     - Graduated Mclean High School, 2021
-   
+
+Achievements & Certifications:
+ - None :(
+
 Contact:
  - email: kyusungkim16@gmail.com
    
